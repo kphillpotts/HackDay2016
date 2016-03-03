@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveCoding", "LiveCoding\LiveCoding.csproj", "{9517D7BE-91AD-4198-B25E-9792B79D0B7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9517D7BE-91AD-4198-B25E-9792B79D0B7A}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{9517D7BE-91AD-4198-B25E-9792B79D0B7A}.Debug|iPhone.Build.0 = Debug|iPhone
+		{9517D7BE-91AD-4198-B25E-9792B79D0B7A}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{9517D7BE-91AD-4198-B25E-9792B79D0B7A}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{9517D7BE-91AD-4198-B25E-9792B79D0B7A}.Release|iPhone.ActiveCfg = Release|iPhone
+		{9517D7BE-91AD-4198-B25E-9792B79D0B7A}.Release|iPhone.Build.0 = Release|iPhone
+		{9517D7BE-91AD-4198-B25E-9792B79D0B7A}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{9517D7BE-91AD-4198-B25E-9792B79D0B7A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
